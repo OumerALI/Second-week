@@ -1,0 +1,33 @@
+/** @format */
+
+body {
+  text-align: center;
+  background-color: #878dac;
+  color: rgb(38, 19, 19);
+}
+.container {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  border: 3px solid rgb(38, 0, 255);
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+}
+.head {
+  font-size: 2rem;
+  color: #93f4e0;
+}
+li {
+  list-style: none;
+  padding-top: 10px;
+  font-size: 25px;
+}
+.week-1 {
+  display: none;
+}
+#button {
+  font-size: 40px;
+  background-color: #c8ef88;
+  border-radius: 20px;
+}
